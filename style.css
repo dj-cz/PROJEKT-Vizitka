@@ -42,6 +42,7 @@ p {
     margin-right: -75px;
     border: 3px white solid;
     border-radius: 50%;
+    box-shadow: 5px 5px 10px rgb(135, 135, 135);
 }
 
     
